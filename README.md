@@ -1,12 +1,10 @@
 # Hi! I'm alice. ✨
-Like the character, Alice from Alice in Wonderland, I end up in a rabbithole a lot. 
-Today, it might be new science facts I never knew, tomorrow it could be figuring out new ways to implement
-something I had done yesterday!
+Like the character, Alice from Alice in Wonderland, I end up in a rabbithole a lot. I enjoy coding the odd things to solve something I have a need for.
 
 ### 🚀 About Me
-I'm a full stack developer and I'm always learning.
+I'm a full stack developer!
 
-I completed my bootcamp program on Dec 20, 2022 and I can't wait to join, discover and learn all the new shiny things in the world of software development!
+I completed my bootcamp program for full stack on Dec 20, 2022!
 
 ### 🛠 Skills I learned
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&style=for-the-badge)
